@@ -5,5 +5,7 @@ The development of the ball detection system is carried out using Jetson inferen
 
 Reference:
 Jetson Inference  : https://github.com/dusty-nv/jetson-inference
+
 Convert UFF SSD   : https://jkjung-avt.github.io/tensorrt-ssd/
+
 Data Train        : 
